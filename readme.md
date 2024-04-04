@@ -8,7 +8,7 @@ Practice safe installation, use a virtual environment.
 
 MacOS, *nix:
 ```
-git clone __________
+git clone git@github.com:Tebs-Lab/gpt-imagegen.git
 python -m venv venv
 source ./venv/bin/activate
 pip install -r requrements.txt
@@ -16,7 +16,7 @@ pip install -r requrements.txt
 
 Windows CMD:
 ```
-git clone __________
+git clone git@github.com:Tebs-Lab/gpt-imagegen.git
 python -m venv venv
 .\venv\Scripts\activate.bat
 pip install -r requrements.txt
@@ -24,7 +24,7 @@ pip install -r requrements.txt
 
 Windows Powershell:
 ```
-git clone __________
+git clone git@github.com:Tebs-Lab/gpt-imagegen.git
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requrements.txt
