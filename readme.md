@@ -80,7 +80,6 @@ https://oaidalleapiprodscus.blob.core.windows.net/private/org-YEMTlSG5Y2jiuDAMT3
 
 ### Get Help
 
-Shebang supporting OSs
 ```
 ./gpt_image -h
 ```
