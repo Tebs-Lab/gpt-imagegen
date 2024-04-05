@@ -9,6 +9,7 @@ Practice safe installation, use a virtual environment.
 MacOS, *nix:
 ```
 git clone git@github.com:Tebs-Lab/gpt-imagegen.git
+cd gpt-imagegen
 python -m venv venv
 source ./venv/bin/activate
 pip install -r requrements.txt
@@ -17,6 +18,7 @@ pip install -r requrements.txt
 Windows CMD:
 ```
 git clone git@github.com:Tebs-Lab/gpt-imagegen.git
+cd gpt-imagegen
 python -m venv venv
 .\venv\Scripts\activate.bat
 pip install -r requrements.txt
@@ -25,6 +27,7 @@ pip install -r requrements.txt
 Windows Powershell:
 ```
 git clone git@github.com:Tebs-Lab/gpt-imagegen.git
+cd gpt-imagegen
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requrements.txt
@@ -128,11 +131,11 @@ options:
 #### Save all the generated interim prompts and the image in a folder called output
 
 ```
-./gpt -s output
+./gpt_image -s output
 ```
 
 #### Print all the interim prompts, open the image in a new browser tab
 
 ```
-./gpt -pi 
+./gpt_image -pi 
 ```
