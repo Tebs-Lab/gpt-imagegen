@@ -79,7 +79,7 @@ Prompt rewritten by OpenAI:
 https://oaidalleapiprodscus.blob.core.windows.net/private/org-YEMTlSG5Y2jiuDAMT3coEENq/user-JhC9ueFeiWeyr1PhDNXKR4G3/img-sKspBqbnRBGwODHPS4Q2BmIt.png?st=2024-04-04T14%3A34%3A45Z&se=2024-04-04T16%3A34%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-03T20%3A19%3A00Z&ske=2024-04-04T20%3A19%3A00Z&sks=b&skv=2021-08-06&sig=98fU6N8DWpg8ln5e3ug2TTlYJogDMsSqOP%2BYMKJiDxM%3D
 ```
 
-![](https://oaidalleapiprodscus.blob.core.windows.net/private/org-YEMTlSG5Y2jiuDAMT3coEENq/user-JhC9ueFeiWeyr1PhDNXKR4G3/img-sKspBqbnRBGwODHPS4Q2BmIt.png?st=2024-04-04T14%3A34%3A45Z&se=2024-04-04T16%3A34%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-03T20%3A19%3A00Z&ske=2024-04-04T20%3A19%3A00Z&sks=b&skv=2021-08-06&sig=98fU6N8DWpg8ln5e3ug2TTlYJogDMsSqOP%2BYMKJiDxM%3D)
+![](assets/can-o-worms.png)
 
 ### Get Help
 
